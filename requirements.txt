@@ -1,0 +1,8 @@
+opencv-python
+tensorflow==2.10
+matplotlib
+numpy
+flask
+werkzeug
+
+# docker run -p 8000:5001 -d flowerimageclassificationflask
